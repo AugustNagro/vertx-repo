@@ -5,6 +5,7 @@ import com.augustnagro.vertx.repo.pg.Functions;
 import com.augustnagro.vertx.repo.pg.Functions.ExtractField;
 import com.augustnagro.vertx.repo.pg.Functions.TrimType;
 import com.augustnagro.vertx.repo.pg.Functions.TruncField;
+import com.augustnagro.vertx.repo.pg.Sort;
 import com.augustnagro.vertx.repo.pg.SpecBuilder;
 import com.augustnagro.vertx.repo.tests.pg.repos.TestPersonRepo;
 import io.vertx.core.Vertx;
